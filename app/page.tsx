@@ -1,7 +1,7 @@
 "use client";
 import { useState } from "react";
-import SignIn from "./components/SignIn";
-import SignUp from "./components/SignUp";
+import SignIn from "./components/Authentication/SignIn";
+import SignUp from "./components/Authentication/SignUp";
 
 export interface LandingPageProps {
   setHasAccount: React.Dispatch<React.SetStateAction<Boolean>>;

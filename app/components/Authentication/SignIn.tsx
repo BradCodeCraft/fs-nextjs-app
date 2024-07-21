@@ -1,6 +1,6 @@
 "use client";
 import React, { useState } from "react";
-import { LandingPageProps } from "../page";
+import { LandingPageProps } from "../../page";
 import { FaRegUser } from "react-icons/fa";
 import { RiLockPasswordLine } from "react-icons/ri";
 
